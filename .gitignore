@@ -1,0 +1,16 @@
+*_temp
+_*
+logs
+targets
+*.log
+/log
+/xbnote
+bin
+*.sum
+*.exe
+*.test
+*.tmp
+*.py
+*.png
+*.zip
+xlscompare
